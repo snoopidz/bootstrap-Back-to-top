@@ -1,0 +1,10 @@
+#toTop{
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	cursor: pointer;
+	display: none;
+  background: #e2eaf7;
+  color: #2f5aa2;
+  border: none;
+}
